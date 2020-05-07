@@ -11,7 +11,11 @@ class MakeRan extends ArrayList<Integer> {
 	private static final long serialVersionUID = 1L;
 
 	public MakeRan() {
+<<<<<<< HEAD
 		super(6); //6개의 빈 공간이 있는 부모생성자를 생성한다
+=======
+		super(6);
+>>>>>>> branch 'master' of https://github.com/sayyes0928/sayyes0928-gmail.com.git
 	}
 
 	public void randomAdd() {
